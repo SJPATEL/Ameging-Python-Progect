@@ -30,6 +30,7 @@ if __name__ == '__main__':
     btn1.grid(row=3,column=1)
     btn2.grid(row=4,column=1)
     win.mainloop()
+    win.mainloop()
     vidioesd
 
 # use calender 
